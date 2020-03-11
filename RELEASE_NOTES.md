@@ -1,2 +1,2 @@
-#### 0.4.5 March 12 2020 ####
-* Updated Akka.Persistence.Extras to Akka.NET v1.4.1.
+#### 0.5.0 March 10 2020 ####
+* Updated Akka.NET to v1.4.1-rc3
